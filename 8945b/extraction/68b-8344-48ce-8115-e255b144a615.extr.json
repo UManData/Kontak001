@@ -1,0 +1,35 @@
+{
+    "beam_diameter": "",
+    "cleanup_duration": 30.0,
+    "commit": "0b439a3c5032413d280cedf6911616a0945c500c",
+    "extract_device": "ChromiumUV",
+    "extract_duration": 0.0,
+    "extract_units": "",
+    "extract_value": 0.0,
+    "extraction_context": {},
+    "grain_polygons": [],
+    "light_value": 0,
+    "load_holder": "---",
+    "load_name": "1",
+    "measured_response": null,
+    "pattern": "",
+    "positions": [
+        {
+            "is_degas": false,
+            "position": "s87",
+            "x": 40.403,
+            "y": 17.28,
+            "z": 17.03
+        }
+    ],
+    "post_cleanup_duration": 0.0,
+    "pre_cleanup_duration": 0.0,
+    "ramp_duration": 0.0,
+    "ramp_rate": 0.0,
+    "requested_output": null,
+    "setpoint_stream": null,
+    "snapshots": [],
+    "tray": "---",
+    "videos": [],
+    "weight": 0
+}
